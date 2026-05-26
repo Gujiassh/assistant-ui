@@ -1,5 +1,12 @@
 # @assistant-ui/react-mcp
 
+## 0.0.2
+
+### Patch Changes
+
+- Updated dependencies [[`32ae846`](https://github.com/assistant-ui/assistant-ui/commit/32ae846a91b61eccd01330693868a48f2f3bb0c4)]:
+  - @assistant-ui/core@0.2.6
+
 ## 0.0.1
 
 ### Patch Changes

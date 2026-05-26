@@ -3123,7 +3123,7 @@ importers:
   packages/react:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.2.5
+        specifier: ^0.2.6
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.2.12
@@ -3261,7 +3261,7 @@ importers:
         specifier: ^3.0.190
         version: 3.0.190(react@19.2.6)(zod@4.4.3)
       '@assistant-ui/core':
-        specifier: ^0.2.5
+        specifier: ^0.2.6
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.2.12
@@ -3425,7 +3425,7 @@ importers:
   packages/react-ink:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.2.5
+        specifier: ^0.2.6
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.2.12
@@ -3477,7 +3477,7 @@ importers:
   packages/react-ink-markdown:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.2.5
+        specifier: ^0.2.6
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.2.12
@@ -3711,7 +3711,7 @@ importers:
   packages/react-native:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.2.5
+        specifier: ^0.2.6
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.2.12
@@ -20519,9 +20519,7 @@ snapshots:
       metro-runtime: 0.84.4
     transitivePeerDependencies:
       - '@babel/core'
-      - bufferutil
       - supports-color
-      - utf-8-validate
 
   '@react-native/normalize-colors@0.74.89': {}
 
