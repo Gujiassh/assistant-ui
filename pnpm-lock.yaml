@@ -3344,6 +3344,9 @@ importers:
       '@standard-schema/spec':
         specifier: ^1.1.0
         version: 1.1.0
+      ai:
+        specifier: ^6.0.209
+        version: 6.0.221(zod@4.4.3)
       nanoid:
         specifier: ^5.1.16
         version: 5.1.16

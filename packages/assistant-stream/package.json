@@ -52,6 +52,7 @@
   },
   "dependencies": {
     "@standard-schema/spec": "^1.1.0",
+    "ai": "^6.0.209",
     "nanoid": "^5.1.16",
     "secure-json-parse": "^4.1.0"
   },

@@ -81,3 +81,9 @@ export {
   type GenericToolCallPart,
   type GenericToolResultPart,
 } from "./core/converters/toGenericMessages";
+
+export {
+  frontendTools,
+  type FrontendTools,
+  defaultToModelOutput,
+} from "./frontendTools";
